@@ -3,6 +3,7 @@
 - yarn install
 - cd apps/web
 - yarn run build && yarn run start
+- go to `http://localhost:3000/lang/en`
 
 # Test
 
