@@ -6,6 +6,8 @@
 
 # Test
 
+Everytime you make a change, please run `yarn run build && yarn run start`
+
 In the network tab you can see `page-xxx` being downloaded with 208kbs. (SVG + client side component <IntroButtons />)
 
 If you comment the Header SVG in Intro.jsx, the page size is reduced to 8.6kbs (client side component only)
